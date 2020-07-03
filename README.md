@@ -1,5 +1,5 @@
-# parthiban
-python calculator
+# Python Simple Calculator Code
+Python Calculator
 #my first calculator
 
 print ( "1.Addition" )
