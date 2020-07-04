@@ -1,0 +1,11 @@
+#add two number using python function
+def add_two_numbers(a,b):
+    return a + b
+    
+total = add_two_numbers(
+   
+    a = float( input ("enter a num :")) ,
+    b = float (input ("enter a num :"))
+    
+)
+print(total)
